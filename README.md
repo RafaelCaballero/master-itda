@@ -14,4 +14,5 @@ In order to load a notebook:
 - Select Jupyter
 - Then a browser should open. 
 - You can either move the notebook to the folder where the browser is showing the files, or upload the notebook
+- When you already see the name of the notebook file in the browser home folder, click on it
 - We are ready!
