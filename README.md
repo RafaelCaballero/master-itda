@@ -30,10 +30,15 @@ Storage: NoSQL databases
   - [Web Scrapping Notes](https://raw.githubusercontent.com/RafaelCaballero/master-itda/main/notes/webscraping_en.pdf)
 
 Introduction to Spark 
+
 Data preprocessing and descriptive statistics 
+
 Machine Learning models 
+
 Supervised learning 
+
 Hiperparameter optimization 
+
 Unsupervised learning
 
 
