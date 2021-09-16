@@ -1,6 +1,8 @@
 # master-itda
 
 
+## Big Data Management
+
 ### Introduction
 Documentation for the *Internet of Things and Data Analytics* Master
 
@@ -22,7 +24,18 @@ In order to load a notebook:
 
 ## Course Topics and notes
 
-Topic 1 [Web Scrapping](https://raw.githubusercontent.com/RafaelCaballero/master-itda/main/notes/webscraping_en.pdf)
+Introduction to Big Data. 
+
+Storage: NoSQL databases 
+  - [Web Scrapping Notes](https://raw.githubusercontent.com/RafaelCaballero/master-itda/main/notes/webscraping_en.pdf)
+
+Introduction to Spark 
+Data preprocessing and descriptive statistics 
+Machine Learning models 
+Supervised learning 
+Hiperparameter optimization 
+Unsupervised learning
+
 
 
 ## Exercises
