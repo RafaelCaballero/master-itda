@@ -1,5 +1,7 @@
 # master-itda
 
+
+### Introduction
 Documentation for the *Internet of Things and Data Analytics* Master
 
 In order to use the notebooks you need some environment that allows you loading Jupyter Notebooks for Python. If you don't already have one I suggests Anaconda
