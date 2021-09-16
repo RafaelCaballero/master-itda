@@ -22,7 +22,7 @@ In order to load a notebook:
 
 ## Course Topics and notes
 
-[Web Scrapping](https://raw.githubusercontent.com/RafaelCaballero/master-itda/main/notes/webscraping_en.pdf)
+Topic 1 [Web Scrapping](https://raw.githubusercontent.com/RafaelCaballero/master-itda/main/notes/webscraping_en.pdf)
 
 
 ## Exercises
